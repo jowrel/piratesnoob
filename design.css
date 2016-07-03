@@ -1,0 +1,84 @@
+.navbars{
+font-size: 20px;
+font-style: italic;
+font-weight: 900;
+font-family: Papyrus;
+padding-bottom: 20px;
+padding-left: 10px;
+}
+
+a:visited{
+color: white;
+text-decoration: none;
+}
+
+a:active{
+color: white;
+text-decoration: none;
+}
+
+a:link{
+color: white;
+text-decoration: none;
+}
+
+a:hover{
+color: red;
+text-decoration: none;
+}
+
+
+#para{
+font-size: 40px;
+color: brown;
+}
+
+#fill{
+padding-top: 1000px;
+}
+
+body{
+background-size: cover;
+}
+
+#pili{
+font-size: 20px;
+font-family: Comic Sans MS;
+border-style: dashed;
+border-color: black;
+border-width: 4px;
+width: 330px;
+height: 50px;
+padding-top: 20px;
+
+}
+
+.posters{
+padding-left: 1050px;
+}
+
+.posterss{
+padding-left: 1050px;
+}
+
+.postersss{
+padding-left: 1050px;
+}
+
+.posterssss{
+padding-left: 1050px;
+}
+
+h2{
+color: red;
+}
+
+.pone{
+color: white;
+border: none;
+}
+
+#picz{
+color: white;
+
+}
